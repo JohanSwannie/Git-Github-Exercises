@@ -2,3 +2,5 @@ This is test file number 2 for git and github purposes
 
 Add an extra comment for testing purposes of file02
 
+Test if pull request is working 
+
